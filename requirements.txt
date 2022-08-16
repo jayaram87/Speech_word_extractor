@@ -1,0 +1,6 @@
+flashtext
+Flask
+numpy
+pydub
+pandas
+SpeechRecognition
